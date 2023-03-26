@@ -4,7 +4,7 @@ It was developed as part of his book [Wholeness and the Implicate Order](https:/
 
 ### Dev
 
-To run:
+Insert your OpenAI key within `script.py`, and then run with:
 
 ```py
 python script.py
